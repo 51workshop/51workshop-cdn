@@ -1,0 +1,30 @@
+{
+  "name": "chaosutil",
+  "homepage": "https://github.com/Samurais/chaosutil",
+  "authors": [
+    "Samurais <hailiang.hl.wang@gmail.com>"
+  ],
+  "description": "common helpers in FE",
+  "main": "util.js",
+  "moduleType": [],
+  "keywords": [
+    "utility"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "f6817e2ba0",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "f6817e2ba08f16a3207ab36efff5e113e0112f7e"
+  },
+  "_source": "https://github.com/Samurais/chaosutil.git",
+  "_target": "*",
+  "_originalSource": "chaosutil"
+}

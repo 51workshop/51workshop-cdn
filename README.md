@@ -1,1 +1,1 @@
-# 51workshop-cdn
+# 51workshop-cdnhttp://cdn.51workshop.cn```qrsync qiniu.json```

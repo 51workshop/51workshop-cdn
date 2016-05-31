@@ -18,11 +18,11 @@
     "test",
     "tests"
   ],
-  "_release": "f6817e2ba0",
+  "_release": "e251583ecf",
   "_resolution": {
     "type": "branch",
     "branch": "master",
-    "commit": "f6817e2ba08f16a3207ab36efff5e113e0112f7e"
+    "commit": "e251583ecfd4b2c02ae8ffec6f4c9da711b35e91"
   },
   "_source": "https://github.com/Samurais/chaosutil.git",
   "_target": "*",
